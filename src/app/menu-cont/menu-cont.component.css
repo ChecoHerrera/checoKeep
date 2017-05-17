@@ -1,0 +1,6 @@
+.menu{position: absolute; width: 5%; height: 300px; left: 0px}
+a{text-decoration: none; color: #000000; font-size: 20px;}
+a:hover{font-size: 26px;}
+.menu h1, .menu a{ padding: 5% 2%; display: none;}
+.menu:hover{background-color: #ebebeb; box-shadow: 5px 5px 10px #888888; width: 30%; left: 0; height: auto;}
+.menu:hover h1, .menu:hover a{display: block;}
